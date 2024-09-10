@@ -39,8 +39,5 @@ Contribuições são bem-vindas! Para colaborar:
 3. Abra um Pull Request.
 
 ## Licença
-Este projeto é licenciado sob a licença [Nome da Licença].
+Este projeto é licenciado sob a licença MIT.
 
----
-
-Essa formatação segue o padrão ideal para o GitHub!
