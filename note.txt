@@ -1,0 +1,10 @@
+^4.0.35
+
+"eas-build-post-install": "tailwindcss -i ./src/styles/global.css -o ./node_modules/.cache/nativewind/global.css.native.css",
+
+
+
+#68fe9a VErde
+#060606 preto
+#24272C cinza
+#FEFAF1 Branco
